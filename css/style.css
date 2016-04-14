@@ -1,0 +1,38 @@
+body {
+	background: url("http://graphics8.nytimes.com/images/2012/11/28/world/ONION-LN/ONION-superJumbo.jpg");
+	background-size: cover;
+	color: white;
+	font-family: "Helvetica";
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+ul {
+color: #FF4600;
+font-weight: bold;
+}
+
+
+hr {
+	width: 100px;
+	color: #FF4600
+}
+#slogan {
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+}
+div {
+	background-color: white;
+	width: 150px;
+	height: 150px;
+	object-position: center;
+}
+
+a {
+	object-position: center;
+	text-align: center;
+}
